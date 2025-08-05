@@ -10,7 +10,7 @@ const CardDetail = () => {
   const card = allCardData.find((item) => item.id === parseInt(id));
 
   if (!card) {
-    return <div>ไม่พบข้อมูลการ์ดที่คุณต้องการ</div>;
+    return <Navigate to="*" />;
   }
 
   return (
