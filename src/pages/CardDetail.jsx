@@ -18,7 +18,7 @@ const CardDetail = () => {
       <main className='flex-grow min-h-screen bg-white'>
         <div className='container mx-auto py-10 px-4'>
           <div className='md:flex md:flex-row rounded-lg shadow-lg overflow-hidden'>
-            <div className='md:w-1/2 w-full'>
+            <div className='w-full md:w-1/2 h-120'>
               <img src={card.imageUrl} alt={card.title} />
             </div>
             <div className='md:w-1/2 w-full p-6 flex flex-col'>
