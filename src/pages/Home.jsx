@@ -26,7 +26,7 @@ const Home = () => {
             {/* รูปภาพด้านขวา */}
             <div className="md:w-1/2 w-full p-4">
               <img
-                src="/picture/ปกหน้าหลัก.png"
+                src="https://media.discordapp.net/attachments/1402999385620611156/1402999487651250286/b3500fdb8ee76b4d.png?ex=6895f498&is=6894a318&hm=4935ec465fa3d0b818594ea4f891438d47bc6cfa89d782821cc27f5536e1f79d&=&format=webp&quality=lossless"
                 alt="ปกหน้าหลัก"
                 className="w-full h-auto rounded-lg shadow-lg"
               />
