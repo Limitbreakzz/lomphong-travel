@@ -8,6 +8,7 @@ const CardList = ({ cardData }) => {
         <Card
           key={card.id}
           id={card.id}
+          province={card.id}
           title={card.title}
           description={card.description}
           history={card.history}
