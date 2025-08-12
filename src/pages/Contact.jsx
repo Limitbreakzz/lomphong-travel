@@ -16,7 +16,7 @@ const Contact = () => {
           <div className="md:flex-shrink-0">
             <img
               className="h-full w-full object-cover md:w-80"
-              src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t39.30808-6/509942209_122207887190114515_4211105564152320581_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH2_YVKDNXzc3rAoaTS3mcHic9O8BXYZNyJz07wFdhk3Mj_zACJKjbzPKjuxn1Hp7HosTJwLwHzdysWuAUBOx3j&_nc_ohc=eC0iNE8OAKcQ7kNvwHBO31R&_nc_oc=AdkP5Yc81wPjVMbNEIbEqeOckSZO8c56cwFGu8bDGf23VKc7sbCbmFsjFu_uhTPkosAhDu2D2TOIrIWM7lyxMQgY&_nc_zt=23&_nc_ht=scontent.fkdt1-1.fna&_nc_gid=io1qSEnn8a05CRrFZ7LMbA&oh=00_AfXlXAHQKW0MjiutBo_aUwCIcntvbGMBWmXbwONJf7TB1Q&oe=689A610A" // ต้องมีไฟล์รูปภาพนี้ในโฟลเดอร์ public
+              src="https://cdn.discordapp.com/attachments/1402999385620611156/1404804333580587099/509942209_122207887190114515_4211105564152320581_n.png?ex=689c857d&is=689b33fd&hm=5138fb8665c898a32102bc63536380e935e17e71bd34a8800a07cae48b713229&"
               alt="สำนักงานใหญ่"
             />
           </div>
