@@ -16,7 +16,7 @@ const Contact = () => {
           <div className="md:flex-shrink-0">
             <img
               className="h-full w-full object-cover md:w-80"
-              src="https://cdn.discordapp.com/attachments/1402999385620611156/1404804333580587099/509942209_122207887190114515_4211105564152320581_n.png?ex=689c857d&is=689b33fd&hm=5138fb8665c898a32102bc63536380e935e17e71bd34a8800a07cae48b713229&"
+              src="/picture/713.png"
               alt="สำนักงานใหญ่"
             />
           </div>
@@ -26,7 +26,7 @@ const Contact = () => {
               สำนักงานใหญ่ 713
             </h2>
             <p className="text-gray-900 text-lg mb-2">
-              เวลาทำการ: <span className="font-semibold">วันจันทร์ - ศุกร์ เวลา 8.00 - 17.00 น.</span> (ปิดทำการวันหยุดราชการ)
+              เวลาทำการ: <span className="font-semibold">วันจันทร์ - ศุกร์ เวลา 8.00 - 18.00 น.</span> (ปิดทำการวันหยุดราชการ)
             </p>
 
             <ul className="space-y-4 text-gray-700 mt-6">
